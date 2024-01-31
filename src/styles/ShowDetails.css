@@ -1,0 +1,36 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .show-details-card {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  
+  .show-details-title {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .show-details-summary {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  .book-ticket-button {
+    background-color: #28a745;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+  }
+  
+  .back-to-list-link {
+    display: block;
+    margin-top: 20px;
+    color: #007bff;
+    text-decoration: none;
+  }
+  

@@ -1,0 +1,24 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .show-card {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+  }
+  
+  .show-title {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .show-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 5px 10px;
+    cursor: pointer;
+    border: none;
+  }
+  
